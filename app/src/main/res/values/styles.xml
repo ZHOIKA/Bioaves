@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.BioAves" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">@color/bioaves_green</item>
+        <item name="android:navigationBarColor">@color/bioaves_green_dark</item>
+        <item name="android:statusBarColor">@color/bioaves_green_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/bioaves_background</item>
+    </style>
+</resources>
